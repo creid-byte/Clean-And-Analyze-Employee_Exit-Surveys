@@ -1,5 +1,5 @@
 # Why are people leaving our company and who are they?
-I represent my stakeholders and they have given me the responsibility to understand why employees are leaving their organizations and who do they represent?
+Had to conduct an analysis on workplace satisfaction levels and factors that contribute to employee resignations. I highlight potential causes based on the data results, and group the supporting data types to help my company better understand their work environment.
 
 While working through this data, we will be asking two questions:
 1. Are employees who worked at the institutes for a short period leaving due to some kind of dissatisfaction?
